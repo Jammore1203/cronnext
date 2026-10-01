@@ -1,0 +1,13 @@
+minute    0,15,30,45
+hour      9-17
+day       any day
+month     every month
+weekday   Mon-Fri
+
+next 6 runs after Fri 2026-10-02 16:50:
+  Fri 2026-10-02 17:00
+  Fri 2026-10-02 17:15
+  Fri 2026-10-02 17:30
+  Fri 2026-10-02 17:45
+  Mon 2026-10-05 09:00
+  Mon 2026-10-05 09:15
